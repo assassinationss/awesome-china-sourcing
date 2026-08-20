@@ -6,7 +6,7 @@
 
 **Stop wiring money on faith. Verify first.**
 
-[Why this exists](#-why-this-exists) · [The VERIFY System](#-the-verify-system) · [10 Instant Red Flags](#-10-instant-red-flags) · [Free Templates](#-free-templates) · [Incoterms Cheat Sheet](#-incoterms-cheat-sheet)
+[Why this exists](#-why-this-exists) · [The VERIFY System](#-the-verify-system) · [10 Instant Red Flags](#-10-instant-red-flags) · [Free Templates](#-free-templates) · [Incoterms Cheat Sheet](#-incoterms-cheat-sheet) · [Landed Cost Calculator](#-landed-cost-calculator)
 
 </div>
 
@@ -67,6 +67,10 @@ Five battle-tested email templates to start with — copy, fill the `[brackets]`
 > 📕 **The full playbook has all 25** — quality disputes, shipment delays, balance-payment leverage, IP protection agreements, and more: [Get the Playbook →](https://assassinationss.github.io/china-sourcing-playbook/)
 
 ---
+
+## 🧮 Landed Cost Calculator
+
+**[Free browser tool →](https://assassinationss.github.io/china-sourcing-playbook/calculator.html)** — estimate your true per-unit cost (goods + freight + duties + MPF/HMF import fees) and your margin before committing to an order. Includes typical HTS duty rates by category and the post-de-minimis reality.
 
 ## 🚢 Incoterms Cheat Sheet
 
