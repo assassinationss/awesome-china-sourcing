@@ -18,7 +18,7 @@ Every year, thousands of first-time importers lose money the same way: they find
 
 The professionals don't have better luck. They have **systems**. This repo is that system, open-sourced: how to verify any Chinese supplier in six steps, negotiate like you have boots on the ground, and move money without getting burned.
 
-> 📕 **Want the full system?** [The China Sourcing Playbook 2026](https://assassinationss.github.io/china-sourcing-playbook/) — 25 copy-paste templates, payment-safety tiers, the 2026 tariff reality, and 10 AI prompts that do the analyst work for you.
+> 📕 **Want the full system?** [The China Sourcing Playbook 2026](https://assassinationss.github.io/china-sourcing-playbook/) — all 25 templates, payment-safety tiers, the 2026 tariff reality, and the 10 AI prompts. Unlock the full archive with a **$19 sponsorship** → [github.com/sponsors/assassinationss](https://github.com/sponsors/assassinationss).
 
 ---
 
@@ -110,6 +110,6 @@ Sourcing war story? Better red flag? Template that saved your order? PRs welcome
 
 **Found this useful?** ⭐ Star it so the next first-time importer finds it before the scammers find them.
 
-📕 **[The China Sourcing Playbook 2026 →](https://assassinationss.github.io/china-sourcing-playbook/)**
+📕 **[The China Sourcing Playbook 2026 →](https://assassinationss.github.io/china-sourcing-playbook/)** · 💚 [Sponsor $19 to unlock](https://github.com/sponsors/assassinationss)
 
 </div>
