@@ -8,7 +8,7 @@
 
 [Why this exists](#-why-this-exists) · [The VERIFY System](#-the-verify-system) · [10 Instant Red Flags](#-10-instant-red-flags) · [Free Templates](#-free-templates) · [Incoterms Cheat Sheet](#-incoterms-cheat-sheet)
 
-📖 **New: [How to Verify a Chinese Supplier in 2026 — the complete 6-step system](docs/how-to-verify-a-chinese-supplier-2026.md)** (deep guide, updated August 2026) · [Landed Cost Calculator](#-landed-cost-calculator)
+📖 **Deep guides:** [How to Verify a Chinese Supplier in 2026 (6-step system)](docs/how-to-verify-a-chinese-supplier-2026.md) · [Alibaba vs 1688: where smart importers actually buy](docs/alibaba-vs-1688-2026.md) · [Landed Cost Calculator](#-landed-cost-calculator)
 
 </div>
 
