@@ -8,7 +8,7 @@
 
 [Why this exists](#-why-this-exists) · [The VERIFY System](#-the-verify-system) · [10 Instant Red Flags](#-10-instant-red-flags) · [Free Templates](#-free-templates) · [Incoterms Cheat Sheet](#-incoterms-cheat-sheet)
 
-📖 **Deep guides:** [How to Verify a Chinese Supplier in 2026 (6-step system)](docs/how-to-verify-a-chinese-supplier-2026.md) · [Alibaba vs 1688: where smart importers actually buy](docs/alibaba-vs-1688-2026.md) · [Landed Cost Calculator](#-landed-cost-calculator)
+📖 **Deep guides:** [How to Verify a Chinese Supplier in 2026 (6-step system)](docs/how-to-verify-a-chinese-supplier-2026.md) · [How to Read a Chinese Business License — line by line](docs/how-to-read-a-chinese-business-license.md) · [Alibaba vs 1688: where smart importers actually buy](docs/alibaba-vs-1688-2026.md) · [Landed Cost Calculator](#-landed-cost-calculator)
 
 </div>
 
@@ -30,7 +30,7 @@ Six steps between "hello supplier" and "wire deposit." No step is optional.
 
 | # | Step | What you're actually checking | Time |
 |---|------|-------------------------------|------|
-| 1 | **V**alidate the license | Business license ≠ trading company claim. Match the license name with the Alibaba company name — a mismatch means you're talking to a middleman. | 15 min |
+| 1 | **V**alidate the license | Business license ≠ trading company claim. Match the license name with the Alibaba company name — a mismatch means you're talking to a middleman. [Full field-by-field decoding →](docs/how-to-read-a-chinese-business-license.md) | 15 min |
 | 2 | **E**stablish the factory | Video call the floor. A real manufacturer schedules a walk-through during working hours; a trading company "coincidentally" can't. | 1 call |
 | 3 | **R**eference check | Ask for 2–3 export customers in your market, then actually contact them. Silence from references = a red flag the size of a container. | 2 days |
 | 4 | **I**nspect the sample | Order samples **from a different channel** (Taobao/1688 retail front) so they can't stage gold-plated units for you. | 1–2 wks |
