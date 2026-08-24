@@ -6,7 +6,7 @@
 
 **Stop wiring money on faith. Verify first.**
 
-[Why this exists](#-why-this-exists) · [The VERIFY System](#-the-verify-system) · [10 Instant Red Flags](#-10-instant-red-flags) · [Free Templates](#-free-templates) · [Incoterms Cheat Sheet](#-incoterms-cheat-sheet)
+[Why this exists](#-why-this-exists) · [The VERIFY System](#-the-verify-system) · [10 Instant Red Flags](#-10-instant-red-flags) · [Free Templates](#-free-templates) · [5 Email Templates — free sample](templates/free-sample.md) · [Incoterms Cheat Sheet](#-incoterms-cheat-sheet)
 
 📖 **Deep guides:** [How to Verify a Chinese Supplier in 2026 (6-step system)](docs/how-to-verify-a-chinese-supplier-2026.md) · [How to Read a Chinese Business License — line by line](docs/how-to-read-a-chinese-business-license.md) · [Alibaba vs 1688: where smart importers actually buy](docs/alibaba-vs-1688-2026.md) · [Landed Cost Calculator](#-landed-cost-calculator)
 
