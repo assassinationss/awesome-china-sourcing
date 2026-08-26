@@ -2,6 +2,8 @@
 
 # 🇨🇳 Awesome China Sourcing
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 ### The open-source supplier verification & negotiation toolkit for e-commerce founders
 
 **Stop wiring money on faith. Verify first.**
