@@ -93,3 +93,5 @@ Copy, paste, customize the [brackets]. These five cover the highest-leverage mom
 The full playbook covers: sample rejection without burning the bridge, price increase pushback, MOQ negotiation, quality claim escalation, mold ownership, IP protection agreements, and more — [The China Sourcing Playbook 2026](https://assassinationss.github.io/china-sourcing-playbook/).
 
 Free system: [awesome-china-sourcing](../README.md) — VERIFY framework, 10 red flags, Incoterms cheat sheet.
+
+⚡ **Launch price: $12** (first 20 seats, then $19) — email [assassinationss@163.com](mailto:assassinationss@163.com) with subject **Playbook** for payment details + same-day access.
