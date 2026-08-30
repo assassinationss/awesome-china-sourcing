@@ -12,7 +12,7 @@
 
 🌐 All guides also readable at **[assassinationss.github.io](https://assassinationss.github.io/)** — the Sol Research Desk hub.
 
-📖 **Deep guides:** [How to Verify a Chinese Supplier in 2026 (6-step system)](docs/how-to-verify-a-chinese-supplier-2026.md) · [How to Read a Chinese Business License — line by line](docs/how-to-read-a-chinese-business-license.md) · [Alibaba vs 1688: where smart importers actually buy](docs/alibaba-vs-1688-2026.md)  · [How to Pay a Chinese Supplier Safely](docs/how-to-pay-a-chinese-supplier-safely-2026.md) · [Landed Cost Calculator](#-landed-cost-calculator)
+📖 **Deep guides:** [How to Verify a Chinese Supplier in 2026 (6-step system)](docs/how-to-verify-a-chinese-supplier-2026.md) · [How to Read a Chinese Business License — line by line](docs/how-to-read-a-chinese-business-license.md) · [Alibaba vs 1688: where smart importers actually buy](docs/alibaba-vs-1688-2026.md)  · [What Suppliers Say vs. What They Mean — bilingual decoder](docs/what-chinese-suppliers-say-vs-what-they-mean.md) · [How to Pay a Chinese Supplier Safely](docs/how-to-pay-a-chinese-supplier-safely-2026.md) · [Landed Cost Calculator](#-landed-cost-calculator)
 
 </div>
 
