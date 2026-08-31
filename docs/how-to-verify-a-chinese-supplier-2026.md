@@ -98,4 +98,6 @@ This guide covers the verification spine. The full playbook expands each step wi
 
 **Free starter kit:** the five most-used email templates from the playbook are in this repo under `/templates` — take them, they're licensed for commercial use.
 
-Found this useful? Star the repo so the next first-time importer finds it before the scammers find them. War stories and corrections welcome in [Discussions](https://github.com/assassinationss/awesome-china-sourcing/discussions).
+Found this useful? Star the repo so the next first-time importer finds it before the scammers find them. > 🚩 **Try the interactive version:** the free [Supplier Red-Flag Checker](https://assassinationss.github.io/checker.html) scores any supplier against this exact system in 3 minutes — with the 3 dealbreakers that override any total. And if this order is still at the pricing stage, run the [Landed Cost Calculator](https://assassinationss.github.io/calculator.html) first.
+
+War stories and corrections welcome in [Discussions](https://github.com/assassinationss/awesome-china-sourcing/discussions).

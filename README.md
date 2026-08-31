@@ -12,7 +12,7 @@
 
 🌐 All guides also readable at **[assassinationss.github.io](https://assassinationss.github.io/)** — the Sol Research Desk hub.
 
-📖 **Deep guides:** [How to Verify a Chinese Supplier in 2026 (6-step system)](docs/how-to-verify-a-chinese-supplier-2026.md) · [How to Read a Chinese Business License — line by line](docs/how-to-read-a-chinese-business-license.md) · [Alibaba vs 1688: where smart importers actually buy](docs/alibaba-vs-1688-2026.md)  · [What Suppliers Say vs. What They Mean — bilingual decoder](docs/what-chinese-suppliers-say-vs-what-they-mean.md) · [How to Pay a Chinese Supplier Safely](docs/how-to-pay-a-chinese-supplier-safely-2026.md) · [Landed Cost Calculator](#-landed-cost-calculator)
+📖 **Deep guides:** [How to Verify a Chinese Supplier in 2026 (6-step system)](docs/how-to-verify-a-chinese-supplier-2026.md) · [How to Read a Chinese Business License — line by line](docs/how-to-read-a-chinese-business-license.md) · [Alibaba vs 1688: where smart importers actually buy](docs/alibaba-vs-1688-2026.md)  · [What Suppliers Say vs. What They Mean — bilingual decoder](docs/what-chinese-suppliers-say-vs-what-they-mean.md) · [How to Pay a Chinese Supplier Safely](docs/how-to-pay-a-chinese-supplier-safely-2026.md) · [Landed Cost Calculator](#-landed-cost-calculator) · [Supplier Red-Flag Checker](#-supplier-red-flag-checker)
 
 </div>
 
@@ -79,6 +79,10 @@ Five battle-tested email templates to start with — copy, fill the `[brackets]`
 ## 🧮 Landed Cost Calculator
 
 **[Free browser tool →](https://assassinationss.github.io/china-sourcing-playbook/calculator.html)** — estimate your true per-unit cost (goods + freight + duties + MPF/HMF import fees) and your margin before committing to an order. Includes typical HTS duty rates by category and the post-de-minimis reality.
+
+## 🚩 Supplier Red-Flag Checker
+
+**[Free browser tool →](https://assassinationss.github.io/checker.html)** — 12 questions, 3 minutes, live score. The VERIFY system in interactive form: business-license cross-checks, payment-pattern flags, and the 3 dealbreakers that override any total score. Runs entirely in your browser — nothing is sent anywhere.
 
 ## 🚢 Incoterms Cheat Sheet
 
