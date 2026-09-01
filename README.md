@@ -26,9 +26,9 @@ The professionals don't have better luck. They have **systems**. This repo is th
 
 > 📕 **Want the full system?** [The China Sourcing Playbook 2026](https://assassinationss.github.io/china-sourcing-playbook/) — all 25 templates, payment-safety tiers, the 2026 tariff reality, and the 10 AI prompts. Unlock the full archive with a **$19 sponsorship** → [github.com/sponsors/assassinationss](https://github.com/sponsors/assassinationss).
 
-> ⚡ **September window — $12 until Oct 1, then $19**: buy direct, no platform needed — email **[assassinationss@163.com](mailto:assassinationss@163.com)** with subject **Playbook** and you'll get payment details (USDT TRC20) + same-day access to the pro repo.
+> ⚡ **September window — $12 until Oct 1, then $19**: buy direct, no platform needed — email **[assassinationss@163.com](mailto:assassinationss@163.com?subject=Playbook)** (subject **Playbook**, pre-filled) and you'll get payment details (USDT TRC20) + same-day access to the pro repo.
 >
-> 🎁 Want a taste first? Email the same address with subject **Sample** — you'll get 2 AI sourcing prompts + the quality-claim template back by return mail (the two things people actually open first).
+> 🎁 Want a taste first? <a href="mailto:assassinationss@163.com?subject=Sample">**Click to email us with subject "Sample"**</a> — you'll get 2 AI sourcing prompts + the quality-claim template back by return mail (the two things people actually open first).
 
 ---
 
