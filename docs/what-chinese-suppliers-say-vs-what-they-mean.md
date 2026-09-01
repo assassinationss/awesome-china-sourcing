@@ -29,7 +29,7 @@ This is the negotiation layer of the [VERIFY system](../README.md#-the-verify-sy
 
 **What it means:** Production is 25 days *after materials arrive and after the deposit clears and after Chinese New Year (if within 6 weeks)*. Freight is separate.
 
-**Your move:** Ask the three-part question: "From deposit received to ex-factory — is 25 days all-in, including material procurement?" Then add your own buffer for the silence between "finished" and "actually shipped." Rule of thumb from the China side: mentally add 30–50% for first orders.
+**Your move:** Ask the three-part question: "From deposit received to ex-factory — is 25 days all-in, including material procurement?" Then add your own buffer for the silence between "finished" and "actually shipped." Rule of thumb from the China side: mentally add 30–50% for first orders. And if CNY falls within 6 weeks of your goods-ready date, run the [CNY 2027 Deadline Calculator](https://assassinationss.github.io/cny-deadline.html) — the shutdown canyon is 3–5 weeks in practice, not the 8 official days.
 
 ### 4. 我们是大工厂 — "We are a big factory"
 
@@ -93,4 +93,4 @@ Every phrase above resolves the same way: **move the conversation from words to 
 
 The [China Sourcing Playbook](https://assassinationss.github.io/china-sourcing-playbook/) contains the full 25-template system built on exactly this principle — including the first-contact sequence that pre-empts phrases 1–7 before they cost you money.
 
-Related: [How to Verify a Chinese Supplier](how-to-verify-a-chinese-supplier-2026.md) · [How to Pay a Chinese Supplier Safely](how-to-pay-a-chinese-supplier-safely-2026.md) · [Alibaba vs 1688](alibaba-vs-1688-2026.md)
+Related: [How to Verify a Chinese Supplier](how-to-verify-a-chinese-supplier-2026.md) · [How to Pay a Chinese Supplier Safely](how-to-pay-a-chinese-supplier-safely-2026.md) · [Alibaba vs 1688](alibaba-vs-1688-2026.md) · Free tools: [CNY 2027 Deadline Calculator](https://assassinationss.github.io/cny-deadline.html) · [Supplier Red-Flag Checker](https://assassinationss.github.io/checker.html)

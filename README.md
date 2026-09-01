@@ -12,7 +12,7 @@
 
 🌐 All guides also readable at **[assassinationss.github.io](https://assassinationss.github.io/)** — the Sol Research Desk hub.
 
-📖 **Deep guides:** [How to Verify a Chinese Supplier in 2026 (6-step system)](docs/how-to-verify-a-chinese-supplier-2026.md) · [How to Read a Chinese Business License — line by line](docs/how-to-read-a-chinese-business-license.md) · [Alibaba vs 1688: where smart importers actually buy](docs/alibaba-vs-1688-2026.md)  · [What Suppliers Say vs. What They Mean — bilingual decoder](docs/what-chinese-suppliers-say-vs-what-they-mean.md) · [How to Pay a Chinese Supplier Safely](docs/how-to-pay-a-chinese-supplier-safely-2026.md) · [Landed Cost Calculator](#-landed-cost-calculator) · [Supplier Red-Flag Checker](#-supplier-red-flag-checker)
+📖 **Deep guides:** [How to Verify a Chinese Supplier in 2026 (6-step system)](docs/how-to-verify-a-chinese-supplier-2026.md) · [How to Read a Chinese Business License — line by line](docs/how-to-read-a-chinese-business-license.md) · [Alibaba vs 1688: where smart importers actually buy](docs/alibaba-vs-1688-2026.md)  · [What Suppliers Say vs. What They Mean — bilingual decoder](docs/what-chinese-suppliers-say-vs-what-they-mean.md) · [How to Pay a Chinese Supplier Safely](docs/how-to-pay-a-chinese-supplier-safely-2026.md) · [Landed Cost Calculator](#-landed-cost-calculator) · [Supplier Red-Flag Checker](#-supplier-red-flag-checker) · [CNY 2027 Deadline Calculator](#-cny-2027-order-deadline-calculator)
 
 </div>
 
@@ -83,6 +83,10 @@ Five battle-tested email templates to start with — copy, fill the `[brackets]`
 ## 🚩 Supplier Red-Flag Checker
 
 **[Free browser tool →](https://assassinationss.github.io/checker.html)** — 12 questions, 3 minutes, live score. The VERIFY system in interactive form: business-license cross-checks, payment-pattern flags, and the 3 dealbreakers that override any total score. Runs entirely in your browser — nothing is sent anywhere.
+
+## 🧧 CNY 2027 Order Deadline Calculator
+
+**[Free browser tool →](https://assassinationss.github.io/cny-deadline.html)** — Chinese New Year lands **Feb 6, 2027: 11 days earlier than 2026**. Enter your production lead time and freight mode, get your last safe PO date — mapped against the *real* shutdown calendar (worker departure waves, trucker cutoff, Lantern-Festival skeleton crews, the March repricing window), not the 8-day official holiday. If your goods-ready date lands in the final pre-CNY fortnight, it flags the rush-job quality window.
 
 ## 🚢 Incoterms Cheat Sheet
 
