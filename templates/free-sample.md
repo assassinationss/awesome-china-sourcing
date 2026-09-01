@@ -94,4 +94,6 @@ The full playbook covers: sample rejection without burning the bridge, price inc
 
 Free system: [awesome-china-sourcing](../README.md) — VERIFY framework, 10 red flags, Incoterms cheat sheet.
 
-⚡ **Launch price: $12** (first 20 seats, then $19) — email [assassinationss@163.com](mailto:assassinationss@163.com) with subject **Playbook** for payment details + same-day access.
+⚡ **September window: $12 until Oct 1** (then $19) — email [assassinationss@163.com](mailto:assassinationss@163.com) with subject **Playbook** for payment details + same-day access.
+
+🎁 **Email-only bonus:** subject **Sample** gets you 2 AI sourcing prompts + the quality-claim template that aren't on this page — [assassinationss@163.com](mailto:assassinationss@163.com?subject=Sample).
