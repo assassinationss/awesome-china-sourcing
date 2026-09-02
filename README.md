@@ -18,6 +18,10 @@
 
 ---
 
+**Contents:** [Why this exists](#-why-this-exists) · [VERIFY System](#-the-verify-system) · [10 Red Flags](#-10-instant-red-flags) · [Free Templates](#-free-templates) · [🧮 Cost Calculator](#-landed-cost-calculator) · [🚩 Red-Flag Checker](#-supplier-red-flag-checker) · [🧧 CNY Deadline](#-cny-2027-order-deadline-calculator) · [Incoterms](#-incoterms-cheat-sheet) · [2026 Reality](#-the-2026-reality-read-before-quoting) · [AI Sourcing](#-ai-powered-sourcing) · [Contributing](#-contributing) · [License](#️-license)
+
+---
+
 ## 🔍 Why this exists
 
 Every year, thousands of first-time importers lose money the same way: they find a "factory" on Alibaba in five minutes, skip verification because the salesperson *seemed nice*, wire 30%–100% upfront, and receive a container of unsellable product — or nothing at all.
