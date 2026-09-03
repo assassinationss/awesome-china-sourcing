@@ -6,7 +6,7 @@
 
 ### The open-source supplier verification & negotiation toolkit for e-commerce founders
 
-**Stop wiring money on faith. Verify first.**
+#### Stop wiring money on faith — verify first
 
 [Why this exists](#-why-this-exists) · [The VERIFY System](#-the-verify-system) · [10 Instant Red Flags](#-10-instant-red-flags) · [Free Templates](#-free-templates) · [5 Email Templates — free sample](templates/free-sample.md) · [Incoterms Cheat Sheet](#-incoterms-cheat-sheet)
 
@@ -40,14 +40,14 @@ The professionals don't have better luck. They have **systems**. This repo is th
 
 Six steps between "hello supplier" and "wire deposit." No step is optional.
 
-| # | Step | What you're actually checking | Time |
-|---|------|-------------------------------|------|
-| 1 | **V**alidate the license | Business license ≠ trading company claim. Match the license name with the Alibaba company name — a mismatch means you're talking to a middleman. [Full field-by-field decoding →](docs/how-to-read-a-chinese-business-license.md) | 15 min |
-| 2 | **E**stablish the factory | Video call the floor. A real manufacturer schedules a walk-through during working hours; a trading company "coincidentally" can't. | 1 call |
-| 3 | **R**eference check | Ask for 2–3 export customers in your market, then actually contact them. Silence from references = a red flag the size of a container. | 2 days |
-| 4 | **I**nspect the sample | Order samples **from a different channel** (Taobao/1688 retail front) so they can't stage gold-plated units for you. | 1–2 wks |
-| 5 | **F**ix it in writing | Spec sheet with tolerances, materials, test standards, and a signed Proforma Invoice. "Same as before" is not a spec. | 1 day |
-| 6 | **Y**ear-check the record | Cross-check customs data, court records, and complaint platforms. Suppliers have histories. Read them. | 30 min |
+|#|Step                     |What you're actually checking                                                                                                                                                                          |Time   |
+|-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+|1|**V**alidate the license |Business license ≠ trading company claim. Match the license name with the Alibaba company name — a mismatch means you're talking to a middleman. Full field-by-field decoding: see the deep guide above|15 min |
+|2|**E**stablish the factory|Video call the floor. A real manufacturer schedules a walk-through during working hours; a trading company "coincidentally" can't.                                                                     |1 call |
+|3|**R**eference check      |Ask for 2–3 export customers in your market, then actually contact them. Silence from references = a red flag the size of a container.                                                                 |2 days |
+|4|**I**nspect the sample   |Order samples **from a different channel** (Taobao/1688 retail front) so they can't stage gold-plated units for you.                                                                                   |1–2 wks|
+|5|**F**ix it in writing    |Spec sheet with tolerances, materials, test standards, and a signed Proforma Invoice. "Same as before" is not a spec.                                                                                  |1 day  |
+|6|**Y**ear-check the record|Cross-check customs data, court records, and complaint platforms. Suppliers have histories. Read them.                                                                                                 |30 min |
 
 ## 🚩 10 Instant Red Flags
 
@@ -61,7 +61,7 @@ Walk away (or investigate hard) when you see any of these:
 6. Won't provide **export references** in your market
 7. Quote arrives in **under an hour** for a custom product (nobody real prices custom work that fast)
 8. Physical address is a **residential tower** or a shared office block
-9.突然 switches contact to **WhatsApp-only**, away from the platform (removes your payment protection)
+9. 突然 switches contact to **WhatsApp-only**, away from the platform (removes your payment protection)
 10. The "manufacturer" can supply **anything you ask for** — real factories are specialized
 
 ---
@@ -70,15 +70,15 @@ Walk away (or investigate hard) when you see any of these:
 
 Five battle-tested email templates to start with — copy, fill the `[brackets]`, send:
 
-| Template | File | Use it for |
-|----------|------|------------|
-| T01 · First Contact | [templates/T01-first-contact.md](templates/T01-first-contact.md) | Opening inquiry that gets taken seriously |
-| T02 · Verification Request | [templates/T02-verification-request.md](templates/T02-verification-request.md) | Asking for license + references without offending |
-| T03 · Sample Order | [templates/T03-sample-order.md](templates/T03-sample-order.md) | Ordering samples like a pro, not a tourist |
-| T05 · Price Negotiation | [templates/T05-price-negotiation.md](templates/T05-price-negotiation.md) | Anchoring at MOQ-tier pricing politely |
-| T09 · Pre-Production Lock | [templates/T09-pre-production-lock.md](templates/T09-pre-production-lock.md) | Freezing the spec before money moves |
+|Template                  |File                                                                          |Use it for                                       |
+|--------------------------|------------------------------------------------------------------------------|-------------------------------------------------|
+|T01 · First Contact       |[templates/T01-first-contact.md](templates/T01-first-contact.md)              |Opening inquiry that gets taken seriously        |
+|T02 · Verification Request|[templates/T02-verification-request.md](templates/T02-verification-request.md)|Asking for license + references without offending|
+|T03 · Sample Order        |[templates/T03-sample-order.md](templates/T03-sample-order.md)                |Ordering samples like a pro, not a tourist       |
+|T05 · Price Negotiation   |[templates/T05-price-negotiation.md](templates/T05-price-negotiation.md)      |Anchoring at MOQ-tier pricing politely           |
+|T09 · Pre-Production Lock |[templates/T09-pre-production-lock.md](templates/T09-pre-production-lock.md)  |Freezing the spec before money moves             |
 
-> 📕 **The full playbook has all 25** — quality disputes, shipment delays, balance-payment leverage, IP protection agreements, and more: [Get the Playbook →](https://assassinationss.github.io/china-sourcing-playbook/)
+> 📕 **The full playbook has all 25** — quality disputes, shipment delays, balance-payment leverage, IP protection agreements, and more. Order info: see the September window block at the top of this README.
 
 ---
 
@@ -98,12 +98,12 @@ Five battle-tested email templates to start with — copy, fill the `[brackets]`
 
 Who does what, who pays for what, and where risk transfers. This one table saves people thousands:
 
-| Term | Seller's job ends | You pay for | Risk transfers |
-|------|-------------------|-------------|----------------|
-| **EXW** | Makes goods available at their factory gate | Everything: export clearance, all freight | At their factory door — avoid unless you have a freight forwarder |
-| **FOB** ✅ | Delivers on board at the origin port | Ocean freight + destination everything | Goods pass the ship's rail at origin — the default for new importers |
-| **CIF** | Pays freight + insurance to your port | Destination clearance + duties + delivery | Origin transfer — seller picks the carrier, you inherit the risk |
-| **DDP** 🎯 | Everything, duties paid, to your door | Just the invoice | At your address — zero hassle, priced in. Ask for both FOB & DDP quotes |
+|Term      |Seller's job ends                          |You pay for                              |Risk transfers                                                         |
+|----------|-------------------------------------------|-----------------------------------------|-----------------------------------------------------------------------|
+|**EXW**   |Makes goods available at their factory gate|Everything: export clearance, all freight|At their factory door — avoid unless you have a freight forwarder      |
+|**FOB** ✅ |Delivers on board at the origin port       |Ocean freight + destination everything   |Goods pass the ship's rail at origin — the default for new importers   |
+|**CIF**   |Pays freight + insurance to your port      |Destination clearance + duties + delivery|Origin transfer — seller picks the carrier, you inherit the risk       |
+|**DDP** 🎯|Everything, duties paid, to your door      |Just the invoice                         |At your address — zero hassle, priced in. Ask for both FOB & DDP quotes|
 
 **Pro rule:** always ask for FOB *and* DDP quotes on the same order. The spread tells you what logistics actually costs — and whether your "cheap" supplier is quietly making margin on freight.
 
@@ -111,7 +111,7 @@ Who does what, who pays for what, and where risk transfers. This one table saves
 
 ## 📊 The 2026 reality (read before quoting)
 
-- **US de minimis exemption is gone** (ended 2025): every parcel entering the US is now formally entry → brokerage fees stack on small orders. **Consolidate shipments; stop dropshipping single parcels.**
+- US de minimis exemption is **gone** (ended 2025): every parcel entering the US is now formally entry → brokerage fees stack on small orders. **Consolidate shipments; stop dropshipping single parcels.**
 - Section 301 tariffs still apply by HS code + country of origin — **classify your product before** you set your retail price, not after.
 - Freight rates normalized from the 2021–22 peaks — but Red Sea routing surcharges can return overnight. Quote FOB, not CIF, if you want control.
 
@@ -119,7 +119,7 @@ Who does what, who pays for what, and where risk transfers. This one table saves
 
 ## 🤖 AI-powered sourcing
 
-The [Playbook](https://assassinationss.github.io/china-sourcing-playbook/) includes 10 production-ready AI prompts that turn any chatbot into a sourcing analyst: license-check briefing writer, quote-comparison matrix builder, tariff-impact estimator, and more.
+The Playbook includes 10 production-ready AI prompts that turn any chatbot into a sourcing analyst: license-check briefing writer, quote-comparison matrix builder, tariff-impact estimator, and more.
 
 ## 🤝 Contributing
 
@@ -127,8 +127,7 @@ Sourcing war story? Better red flag? Template that saved your order? PRs welcome
 
 ## ⚖️ License
 
-- **Code & templates:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use commercially, just attribute
-- **The VERIFY System:** free to share with attribution to this repo
+All content in this repository (guides, templates, checklists) is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — use it commercially; attribution appreciated but not required.
 
 ---
 
@@ -136,6 +135,6 @@ Sourcing war story? Better red flag? Template that saved your order? PRs welcome
 
 **Found this useful?** ⭐ Star it so the next first-time importer finds it before the scammers find them.
 
-📕 **[The China Sourcing Playbook 2026 →](https://assassinationss.github.io/china-sourcing-playbook/)** · 💚 [Sponsor $19 to unlock](https://github.com/sponsors/assassinationss) · ⚡ [Launch $12 — email direct](mailto:assassinationss@163.com?subject=Playbook)
+📕 **The China Sourcing Playbook 2026** — order via the September window or Sponsor link at the top of this README.
 
 </div>
