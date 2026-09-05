@@ -26,3 +26,7 @@ Best regards,
 - **You pay** — free samples get you showroom units; paid samples get you *production-line* units
 - **Spec-locked** — sample can't drift from what you'll actually order
 - **Your courier account** — kills the classic inflated-freight margin trick
+
+---
+
+**All 25 templates** — including the 12 variations of this message for disputes, tooling, and IP — are in [The China Sourcing Playbook 2026](https://assassinationss.github.io/china-sourcing-playbook/) ($12 during September). Free sample pack by email: [assassinationss@163.com](mailto:assassinationss@163.com?subject=Sample), subject "Sample".

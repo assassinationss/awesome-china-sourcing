@@ -22,3 +22,7 @@ Best regards,
 ```
 
 **Why it works:** "same for every supplier" removes the accusation sting; references + video call are the two things shell companies can't fake. A real factory answers within 48h. Evasion *is* your answer.
+
+---
+
+**All 25 templates** — including the 12 variations of this message for disputes, tooling, and IP — are in [The China Sourcing Playbook 2026](https://assassinationss.github.io/china-sourcing-playbook/) ($12 during September). Free sample pack by email: [assassinationss@163.com](mailto:assassinationss@163.com?subject=Sample), subject "Sample".

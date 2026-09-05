@@ -26,3 +26,7 @@ Best regards,
 ```
 
 **Why it works:** volume signal (they quote serious buyers seriously), the in-house question (forces disclosure early), certs-first (filters out resellers who can't produce paperwork).
+
+---
+
+**All 25 templates** — including the 12 variations of this message for disputes, tooling, and IP — are in [The China Sourcing Playbook 2026](https://assassinationss.github.io/china-sourcing-playbook/) ($12 during September). Free sample pack by email: [assassinationss@163.com](mailto:assassinationss@163.com?subject=Sample), subject "Sample".

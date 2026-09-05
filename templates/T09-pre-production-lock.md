@@ -22,3 +22,7 @@ Best regards,
 ```
 
 **Why it exists:** every quality dispute you'll ever have starts at this email. Signed by their reply, it converts "but you never said" into "see item 4." The ±2% quantity tolerance prevents the classic overship-and-invoice trick.
+
+---
+
+**All 25 templates** — including the 12 variations of this message for disputes, tooling, and IP — are in [The China Sourcing Playbook 2026](https://assassinationss.github.io/china-sourcing-playbook/) ($12 during September). Free sample pack by email: [assassinationss@163.com](mailto:assassinationss@163.com?subject=Sample), subject "Sample".

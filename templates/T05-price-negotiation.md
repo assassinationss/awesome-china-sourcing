@@ -22,3 +22,7 @@ Best regards,
 ```
 
 **Why it works:** competitive quotes stated flatly (not as a threat), tier structure invites them to compete with *themselves*, and the "what can move instead" line converts a price stalemate into a terms negotiation. The date creates pressure without ultimatum drama.
+
+---
+
+**All 25 templates** — including the 12 variations of this message for disputes, tooling, and IP — are in [The China Sourcing Playbook 2026](https://assassinationss.github.io/china-sourcing-playbook/) ($12 during September). Free sample pack by email: [assassinationss@163.com](mailto:assassinationss@163.com?subject=Sample), subject "Sample".
