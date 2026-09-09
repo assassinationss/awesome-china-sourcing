@@ -22,6 +22,7 @@
 - [Landed Cost Calculator](#-landed-cost-calculator)
 - [Supplier Red-Flag Checker](#-supplier-red-flag-checker)
 - [CNY 2027 Order Deadline Calculator](#-cny-2027-order-deadline-calculator)
+- [Supplier Reply Decoder](#-supplier-reply-decoder)
 - [Incoterms Cheat Sheet](#-incoterms-cheat-sheet)
 - [The 2026 reality](#-the-2026-reality-read-before-quoting)
 - [AI-powered sourcing](#-ai-powered-sourcing)
@@ -96,6 +97,10 @@ Five battle-tested email templates to start with — copy, fill the `[brackets]`
 ## 🧧 CNY 2027 Order Deadline Calculator
 
 **[Free browser tool →](https://assassinationss.github.io/cny-deadline.html)** - Chinese New Year lands **Feb 6, 2027: 11 days earlier than 2026**. Enter your production lead time and freight mode, get your last safe PO date — mapped against the *real* shutdown calendar (worker departure waves, trucker cutoff, Lantern-Festival skeleton crews, the March repricing window), not the 8-day official holiday. If your goods-ready date lands in the final pre-CNY fortnight, it flags the rush-job quality window.
+
+## 🗣 Supplier Reply Decoder
+
+**[Free browser tool →](https://assassinationss.github.io/decoder.html)** - Paste any supplier email. A bilingual pattern scan runs client-side for vague commitments ("no problem", 没问题), dodge patterns ("we will check with our engineer"), pressure tactics ("price rises tomorrow"), and payment-account red flags — then generates a custom AI analysis prompt pre-loaded with what the scan found, so ChatGPT/Claude gives you a line-by-line "what they actually committed to" table instead of a generic summary. Nothing leaves your browser.
 
 ## 🚢 Incoterms Cheat Sheet
 
