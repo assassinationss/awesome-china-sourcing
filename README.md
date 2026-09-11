@@ -18,6 +18,7 @@
 - [Deep guides](#-deep-guides)
 - [The VERIFY System](#-the-verify-system)
 - [10 Instant Red Flags](#-10-instant-red-flags)
+- [Verified case studies (open evidence chains)](#-verified-case-studies-open-evidence-chains)
 - [Free Templates](#-free-templates)
 - [Landed Cost Calculator](#-landed-cost-calculator)
 - [Supplier Red-Flag Checker](#-supplier-red-flag-checker)
@@ -71,6 +72,21 @@ Walk away (or investigate hard) when you see any of these:
 8. Physical address is a **residential tower** or a shared office block
 9. Suddenly switches contact to **WhatsApp-only**, away from the platform (removes your payment protection)
 10. The "manufacturer" can supply **anything you ask for** — real factories are specialized
+
+---
+
+## 🔬 Verified case studies (open evidence chains)
+
+Static red flags help — **public-record case studies prove them.** Each case below was verified end-to-end on open Chinese public records (National Enterprise Credit Information System, hiring platforms, corporate registry) with the full evidence chain published:
+
+| Case | What the supplier claimed | What public records showed | Method |
+|---|---|---|---|
+| **"Factory" that shrank** | ¥10M registered capital, "factory" persona | June 2026 capital **reduction ¥6.44M** + hiring **25→3 jobs (−88%)** | Capital-change lookup + hiring-curve check |
+| **Rented facade** | "Factory visit" tours | Video call proved presence, not ownership — actual entity is a trading company | License scope: manufacturing vs wholesale/trading |
+| **Phantom shifts** | Full factory floor | QC room equipment was dust-covered props | Equipment logs + calibration records |
+| **Rent-a-factory cleanroom** | A real cleanroom video | Address was a **residential building** — buyer avoided a ~$50K wire | Address cross-check + on-site mapping |
+
+These are reproductions, not anecdotes — anyone can re-run them in minutes on the same public sources. Full evidence-chain write-ups (CC0, field-by-field, no cherry-picking): [chinese-supplier-verification-methods](https://github.com/lu7897859-tech/chinese-supplier-verification-methods) — a companion **Verified Edition** list, also on GitHub: [awesome-china-sourcing-verified](https://github.com/lu7897859-tech/awesome-china-sourcing-verified).
 
 ---
 
