@@ -38,6 +38,8 @@ The professionals don't have better luck. They have **systems**. This repo is th
 
 ## Deep guides
 
+- 🆕 [Golden Week 2026: The 14-Day Blackout](https://assassinationss.github.io/guides/golden-week-2026.html) - Mid-Autumn sits 3 workdays before National Day: the *real* factory calendar, order deadlines by shipping mode, and the pre-holiday quality trap. **Time-sensitive: blackout starts Sep 25.**
+- [How to Order Samples Without Getting Played](https://assassinationss.github.io/guides/order-samples.html) - Stock → custom → golden samples, the photo-sample trap, and the 4-message sequence.
 - [How to Verify a Chinese Supplier in 2026](https://assassinationss.github.io/guides/verify-supplier.html) - The six-step VERIFY system from first contact to wired deposit.
 - [How to Read a Chinese Business License](https://assassinationss.github.io/guides/business-license.html) - Nine fields, line by line, plus the four-name cross-check that catches most fakes.
 - [Alibaba vs 1688: Where Smart Importers Actually Buy](https://assassinationss.github.io/guides/alibaba-1688.html) - Prices, MOQs, and when the 30% gap inverts.
@@ -88,7 +90,7 @@ Five battle-tested email templates to start with — copy, fill the `[brackets]`
 
 ## Landed Cost Calculator
 
-**[Free browser tool →](https://assassinationss.github.io/china-sourcing-playbook/calculator.html)** - Estimate your true per-unit cost (goods + freight + duties + MPF/HMF import fees) and your margin before committing to an order. Includes typical HTS duty rates by category and the post-de-minimis reality.
+**[Free browser tool →](https://assassinationss.github.io/calculator.html)** - Estimate your true per-unit cost (goods + freight + duties + MPF/HMF import fees) and your margin before committing to an order. Includes typical HTS duty rates by category and the post-de-minimis reality.
 
 ## Supplier Red-Flag Checker
 
