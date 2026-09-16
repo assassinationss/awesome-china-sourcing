@@ -133,6 +133,8 @@ The Pro Edition includes 10 production-ready AI prompts that turn any chatbot in
 
 The China Sourcing Playbook 2026 collects the complete system: all 25 negotiation, verification, and claim templates, payment-safety tiers, the 2026 tariff reality, and the 10 AI prompts.
 
+> **September window: $12** — the price rises to $19 on Oct 1. Direct buyers lock the launch rate by emailing before then; sponsor-tier buyers are unaffected.
+
 - **Sponsor tier**: [github.com/sponsors/assassinationss](https://github.com/sponsors/assassinationss)
 - **Direct purchase** - email [assassinationss@163.com](mailto:assassinationss@163.com?subject=Playbook) - Payment details and same-day access to the pro repo. Free sample pack (2 AI prompts + the quality-claim template): email the same address with subject "Sample".
 
