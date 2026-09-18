@@ -108,12 +108,12 @@ Five battle-tested email templates to start with — copy, fill the `[brackets]`
 
 Who does what, who pays for what, and where risk transfers. This one table saves people thousands:
 
-| Term       | Seller's job ends                           | You pay for                               | Risk transfers                                                          |
-| ---------- | ------------------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------- |
-| **EXW**    | Makes goods available at their factory gate | Everything: export clearance, all freight | At their factory door — avoid unless you have a freight forwarder       |
-| **FOB** ✅  | Delivers on board at the origin port        | Ocean freight + destination everything    | Goods pass the ship's rail at origin — the default for new importers    |
-| **CIF**    | Pays freight + insurance to your port       | Destination clearance + duties + delivery | Origin transfer — seller picks the carrier, you inherit the risk        |
-| **DDP** 🎯 | Everything, duties paid, to your door       | Just the invoice                          | At your address — zero hassle, priced in. Ask for both FOB & DDP quotes |
+| Term              | Seller's job ends                           | You pay for                               | Risk transfers                                                          |
+|-------------------|---------------------------------------------|-------------------------------------------|-------------------------------------------------------------------------|
+| **EXW**           | Makes goods available at their factory gate | Everything: export clearance, all freight | At their factory door — avoid unless you have a freight forwarder       |
+| **FOB** (default) | Delivers on board at the origin port        | Ocean freight + destination everything    | Goods pass the ship's rail at origin — the default for new importers    |
+| **CIF**           | Pays freight + insurance to your port       | Destination clearance + duties + delivery | Origin transfer — seller picks the carrier, you inherit the risk        |
+| **DDP** (easiest) | Everything, duties paid, to your door       | Just the invoice                          | At your address — zero hassle, priced in. Ask for both FOB & DDP quotes |
 
 **Pro rule:** always ask for FOB *and* DDP quotes on the same order. The spread tells you what logistics actually costs — and whether your "cheap" supplier is quietly making margin on freight.
 
