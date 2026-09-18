@@ -109,7 +109,7 @@ Five battle-tested email templates to start with — copy, fill the `[brackets]`
 Who does what, who pays for what, and where risk transfers. This one table saves people thousands:
 
 | Term              | Seller's job ends                           | You pay for                               | Risk transfers                                                          |
-|-------------------|---------------------------------------------|-------------------------------------------|-------------------------------------------------------------------------|
+| ------------------- | --------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------- |
 | **EXW**           | Makes goods available at their factory gate | Everything: export clearance, all freight | At their factory door — avoid unless you have a freight forwarder       |
 | **FOB** (default) | Delivers on board at the origin port        | Ocean freight + destination everything    | Goods pass the ship's rail at origin — the default for new importers    |
 | **CIF**           | Pays freight + insurance to your port       | Destination clearance + duties + delivery | Origin transfer — seller picks the carrier, you inherit the risk        |
