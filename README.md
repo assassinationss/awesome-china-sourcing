@@ -6,7 +6,7 @@
 
 <p><a href="https://assassinationss.github.io/"><img src="media/logo.svg" alt="Awesome China Sourcing logo" width="400"></a></p>
 
-<p><strong>Systems for verifying Chinese suppliers, negotiating, and paying safely.</strong></p>
+<p><strong>Supplier verification, negotiation, and payment-safety systems for importing from China — open source and free.</strong></p>
 
 🌐 All guides also readable at **[assassinationss.github.io](https://assassinationss.github.io/)** — the Sol Research Desk hub.
 
@@ -34,7 +34,7 @@
 
 Every year, thousands of first-time importers lose money the same way: they find a "factory" on Alibaba in five minutes, skip verification because the salesperson *seemed nice*, wire 30%–100% upfront, and receive a container of unsellable product — or nothing at all.
 
-The professionals don't have better luck. They have **systems**. This repo is that system, open-sourced: how to verify any Chinese supplier in six steps, negotiate like you have boots on the ground, and move money without getting burned. An expanded commercial edition with all 25 templates is described at the bottom.
+The professionals don't have better luck. They have **systems**. This repo is that system, open-sourced: how to verify any Chinese supplier in six steps, negotiate like you have boots on the ground, and move money without getting burned. Built for e-commerce founders importing from China via Alibaba, 1688, or a sourcing agent. An expanded commercial edition with all 25 templates is described at the bottom.
 
 ## Deep guides
 
