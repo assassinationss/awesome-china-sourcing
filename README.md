@@ -131,6 +131,16 @@ Who does what, who pays for what, and where risk transfers. This one table saves
 
 The Pro Edition includes 10 production-ready AI prompts that turn any chatbot into a sourcing analyst: license-check briefing writer, quote-comparison matrix builder, tariff-impact estimator, and more.
 
+## Free vs PRO — what's actually in the box
+
+| | Free (this repo) | PRO |
+|---|---|---|
+| Guides & tools | 9 guides + 3 browser tools, forever free | Everything + the 25-page PDF field manual |
+| Email templates | 6 starter templates | **All 25** — QC failures, rework demands, delay escalation, CNY planning, DDP-vs-FOB |
+| AI prompts | 2-prompt sample pack (email us) | All 10 production prompts |
+| Updates | Community PRs | Every future edition, same repo, forever |
+| Guarantee | — | 30-day money-back, no questions |
+
 ## The Pro Edition
 
 The China Sourcing Playbook 2026 collects the complete system: all 25 negotiation, verification, and claim templates, payment-safety tiers, the 2026 tariff reality, and the 10 AI prompts.
