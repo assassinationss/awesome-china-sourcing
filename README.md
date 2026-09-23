@@ -12,6 +12,8 @@
 
 </div>
 
+> **⏱ Oct 1 is coming twice this year**: the price of the [Pro Playbook](#the-pro-edition) rises to $19, and China's factories go dark for a week. If you have orders in flight, the [Golden Week deadline math](https://github.com/assassinationss/awesome-china-sourcing/discussions/12) is required reading — some cutoffs already passed.
+
 ## Contents
 
 - [Why this exists](#why-this-exists)
