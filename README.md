@@ -147,7 +147,7 @@ The Pro Edition includes 10 production-ready AI prompts that turn any chatbot in
 
 The China Sourcing Playbook 2026 collects the complete system: all 25 negotiation, verification, and claim templates, payment-safety tiers, the 2026 tariff reality, and the 10 AI prompts.
 
-> **September window: $12** — the price rises to $19 on Oct 1. Direct buyers lock the launch rate by emailing before then; sponsor-tier buyers are unaffected.
+> **Final day: $12 until tonight (Oct 1, 23:59 Beijing)** — from Oct 2 the price is $19. This deadline does not extend. Sponsor-tier buyers are unaffected.
 >
 > Direct purchases carry a **30-day money-back guarantee** (USDT refunded the way it came, no questions asked).
 
