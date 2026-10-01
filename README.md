@@ -12,7 +12,7 @@
 
 </div>
 
-> **⏱ Oct 1 is coming twice this year**: the price of the [Pro Playbook](#the-pro-edition) rises to $19, and China's factories go dark for a week. If you have orders in flight, the [Golden Week deadline math](https://github.com/assassinationss/awesome-china-sourcing/discussions/12) is required reading — some cutoffs already passed.
+> **Golden Week is live — China's factories are dark through Oct 7.** The Pro Playbook is now **$19** (the $12 launch window closed Oct 1, 23:59). If you have orders in flight, the [Golden Week deadline math](https://github.com/assassinationss/awesome-china-sourcing/discussions/12) is required reading — some cutoffs already passed.
 
 ## Contents
 
@@ -147,7 +147,7 @@ The Pro Edition includes 10 production-ready AI prompts that turn any chatbot in
 
 The China Sourcing Playbook 2026 collects the complete system: all 25 negotiation, verification, and claim templates, payment-safety tiers, the 2026 tariff reality, and the 10 AI prompts.
 
-> **Final day: $12 until tonight (Oct 1, 23:59 Beijing)** — from Oct 2 the price is $19. This deadline does not extend. Sponsor-tier buyers are unaffected.
+> **Now $19** — the $12 launch window closed Oct 1, 23:59 (Beijing). This deadline did not extend, and neither will future ones. Sponsor-tier buyers are unaffected.
 >
 > Direct purchases carry a **30-day money-back guarantee** (USDT refunded the way it came, no questions asked).
 
