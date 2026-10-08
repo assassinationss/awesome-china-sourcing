@@ -12,7 +12,7 @@
 
 </div>
 
-> **Golden Week is live — China's factories are dark through Oct 7.** The Pro Playbook is now **$19** (the $12 launch window closed Oct 1, 23:59). If you have orders in flight, the [Golden Week deadline math](https://github.com/assassinationss/awesome-china-sourcing/discussions/12) is required reading — some cutoffs already passed.
+> **Factories are back — the restart rush is on.** The Pro Playbook is now **$19** (the $12 launch window closed Oct 1, 23:59). Suppliers reopen to a 2-week backlog: quotes slow down and production slots tighten. The next hard deadline is [CNY 2027 — last safe order dates](https://assassinationss.github.io/cny-deadline.html).
 
 ## Contents
 
