@@ -12,7 +12,7 @@
 
 </div>
 
-> **Factories are back — the restart rush is on.** The Pro Playbook is now **$19** (the $12 launch window closed Oct 1, 23:59). Suppliers reopen to a 2-week backlog: quotes slow down and production slots tighten. The next hard deadline is [CNY 2027 — last safe order dates](https://assassinationss.github.io/cny-deadline.html).
+> **Factories are back — the restart rush is on.** The Pro Playbook is now **$19** (the $12 launch window closed Oct 1, 23:59). Suppliers reopen to a 2-week backlog: quotes slow down and production slots tighten. First deadline out of the gate: [Black Friday restocking — last order dates by freight mode](https://assassinationss.github.io/black-friday-deadline.html) (standard ocean already missed; express and air close in October), then [CNY 2027](https://assassinationss.github.io/cny-deadline.html).
 
 ## Contents
 
