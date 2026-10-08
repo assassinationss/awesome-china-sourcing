@@ -24,6 +24,7 @@
 - [Landed Cost Calculator](#landed-cost-calculator)
 - [Supplier Red-Flag Checker](#supplier-red-flag-checker)
 - [CNY 2027 Order Deadline Calculator](#cny-2027-order-deadline-calculator)
+- [Black Friday 2026 Deadline Calculator](#black-friday-2026-deadline-calculator)
 - [Supplier Reply Decoder](#supplier-reply-decoder)
 - [Incoterms Cheat Sheet](#incoterms-cheat-sheet)
 - [The 2026 reality (read before quoting)](#the-2026-reality-read-before-quoting)
@@ -40,7 +41,8 @@ The professionals don't have better luck. They have **systems**. This repo is th
 
 ## Deep guides
 
-- 🆕 [Golden Week 2026: The 14-Day Blackout](https://assassinationss.github.io/guides/golden-week-2026.html) - Mid-Autumn sits 3 workdays before National Day: the *real* factory calendar, order deadlines by shipping mode, and the pre-holiday quality trap. **Time-sensitive: blackout starts Sep 25.**
+- 🆕 [Black Friday 2026: The Restock Countdown](https://assassinationss.github.io/black-friday-deadline.html) - The real inventory deadline is ~Nov 20 (early deals), not the 27th. Which freight modes still make it, what the catch-up-week quality math says, and the CNY 2027 bridge play if yours doesn't.
+- [Golden Week 2026: The 14-Day Blackout](https://assassinationss.github.io/guides/golden-week-2026.html) - 2026 archive: the real factory calendar vs the official one, order deadlines by shipping mode, and the restart-week quality trap. Black Friday restocking is now the live deadline; this guide keeps the Golden Week reference.
 - [How to Order Samples Without Getting Played](https://assassinationss.github.io/guides/order-samples.html) - Stock → custom → golden samples, the photo-sample trap, and the 4-message sequence.
 - [How to Verify a Chinese Supplier in 2026](https://assassinationss.github.io/guides/verify-supplier.html) - The six-step VERIFY system from first contact to wired deposit.
 - [How to Read a Chinese Business License](https://assassinationss.github.io/guides/business-license.html) - Nine fields, line by line, plus the four-name cross-check that catches most fakes.
@@ -101,6 +103,10 @@ Five battle-tested email templates to start with — copy, fill the `[brackets]`
 ## CNY 2027 Order Deadline Calculator
 
 **[Free browser tool →](https://assassinationss.github.io/cny-deadline.html)** - Chinese New Year lands **Feb 6, 2027: 11 days earlier than 2026**. Enter your production lead time and freight mode, get your last safe PO date — mapped against the *real* shutdown calendar (worker departure waves, trucker cutoff, Lantern-Festival skeleton crews, the March repricing window), not the 8-day official holiday. If your goods-ready date lands in the final pre-CNY fortnight, it flags the rush-job quality window.
+
+## Black Friday 2026 Deadline Calculator
+
+**[Free browser tool →](https://assassinationss.github.io/black-friday-deadline.html)** - Black Friday lands **Nov 27** — but the real inventory deadline is ~Nov 20, when early deals open. Enter your freight mode (standard ocean, express ocean, air, courier) and lead time: the calculator says whether your PO still makes it, the last safe order date, and if it doesn't — the CNY 2027 bridge play (lock December pricing when factories are quiet, ship before the February 6 shutdown). Standard ocean already missed; express closes mid-October.
 
 ## Supplier Reply Decoder
 
