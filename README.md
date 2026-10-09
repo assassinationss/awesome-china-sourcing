@@ -158,7 +158,7 @@ The China Sourcing Playbook 2026 collects the complete system: all 25 negotiatio
 > Direct purchases carry a **30-day money-back guarantee** (USDT refunded the way it came, no questions asked).
 
 - **Sponsor tier**: [github.com/sponsors/assassinationss](https://github.com/sponsors/assassinationss)
-- **Direct purchase** - email [assassinationss@163.com](mailto:assassinationss@163.com?subject=Playbook) - Payment details and same-day access to the pro repo. Free sample pack (2 AI prompts + the quality-claim template): email the same address with subject "Sample".
+- **Direct purchase** - email [assassinationss@163.com](mailto:assassinationss@163.com?subject=Playbook) - Payment details and same-day access to the pro repo. Free sample pack (2 AI prompts + the quality-claim template): email the same address with subject "Sample". Want the full picture first? Browse the complete table of contents + a free template sample in [playbook-preview](https://github.com/assassinationss/playbook-preview).
 
 ## Contributing
 
